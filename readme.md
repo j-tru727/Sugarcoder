@@ -2,7 +2,9 @@
 ##Jessica Trujillo
 
 ###To-do
-+Add projects
-+Change layout
-+Learn scripting languages
-+Learn git
+<ul>
+<li>Add projects</li>
+<li>Change layout</li>
+<li>Learn scripting languages</li>
+<li>Learn git</li>
+</ul>
